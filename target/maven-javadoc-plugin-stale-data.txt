@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/sergio/OneDrive/Documentos/NetBeansProjects/Cajero/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sergio/OneDrive/Documentos/NetBeansProjects/Cajero/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cajero 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Cajero 1.0-SNAPSHOT API'
+com.uptc.Cajero.exceptions
+com.uptc.Cajero.Model
+com.uptc.Cajero.Presenter
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\src\main\java = 1791579767175
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\allclasses-index.html = 1791583407682
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\allpackages-index.html = 1791583407685
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\element-list = 1791583407525
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\help-doc.html = 1791583407726
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\index-all.html = 1791583407713
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\index.html = 1791583407664
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\member-search-index.js = 1791583407694
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\module-search-index.js = 1791583407688
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\overview-summary.html = 1791583407721
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\overview-tree.html = 1791583407657
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\package-search-index.js = 1791583407690
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\search.html = 1791583407717
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\serialized-form.html = 1791583407590
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\tag-search-index.js = 1791583407696
+C:\Users\sergio\OneDrive\Documentos\NetBeansProjects\Cajero\target\reports\apidocs\type-search-index.js = 1791583407692

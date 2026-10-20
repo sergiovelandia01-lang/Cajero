@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.uptc.Cajero.test.BankAccounTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.085 s <<< FAILURE! -- in com.uptc.Cajero.test.BankAccounTest
+com.uptc.Cajero.test.BankAccounTest.depositBankAccount -- Time elapsed: 0.046 s <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.uptc.Cajero.Model.account.getBalance(account.java:14)
+	at com.uptc.Cajero.Model.BankAccount.deposit(BankAccount.java:75)
+	at com.uptc.Cajero.test.BankAccounTest.depositBankAccount(BankAccounTest.java:53)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1612)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1612)
+
